@@ -1,0 +1,157 @@
+/* 列表页专有样式 */
+.header .sk {
+    position: absolute;
+    left: 190px;
+    top: 42px;
+    border-left: 1px solid #b1191a;
+    padding: 4px 0 0 14px;
+}
+
+.nav .sk_list {
+    float: left;
+}
+
+.nav .sk_list ul li {
+    float: left;
+}
+
+.nav .sk_list ul li a {
+    display: inline-block;
+    height: 47px;
+    line-height: 47px;
+    padding: 0 30px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #000;
+}
+
+.nav .sk_list ul li a:hover {
+    color: #c81623
+}
+
+.nav .sk_con {
+    float: left;
+}
+
+.nav .sk_con ul li {
+    float: left;
+}
+
+.nav .sk_con ul li a {
+    height: 48px;
+    line-height: 48px;
+    font-size: 14px;
+    padding: 0 23px;
+}
+
+.nav .sk_con ul li:last-child a::after {
+    content: "\e6cc";
+    font-family: "iconfont";
+    font-weight: 700;
+}
+
+.sk_container .sk_hd {
+    position: relative;
+    height: 120px;
+    margin-bottom: 16px;
+}
+
+.sk_container .sk_hd img:first-child {
+    height: 120px;
+    width: 1200px;
+}
+
+.sk_container .sk_hd img:nth-child(2) {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.sk_container .sk_hd img:last-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.sk_container .sk_bd ul li:first-child {
+    border-left: 1PX solid #e12228;
+    border-top: 1PX solid #e12228;
+    border-right: 1PX solid #e12228;
+}
+
+.sk_container .sk_bd ul li {
+    float: left;
+    position: relative;
+    width: 290px;
+    height: 460px;
+    margin-right: 13px;
+}
+
+.sk_container .sk_bd ul li:nth-child(4n) {
+    margin-right: 0;
+}
+
+.sk_container .sk_bd ul li h3 {
+    padding-left: 14px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.sk_container .sk_bd ul li .price {
+    margin-top: 10px;
+    margin-left: 14px;
+    margin-bottom: 6px;
+}
+
+.sk_container .sk_bd ul li .price .hongse {
+    font-size: 22px;
+    color: #e60012;
+}
+
+.sk_container .sk_bd ul li .price .huise {
+    font-size: 14px;
+    color: #b2b2b2;
+    margin-left: 8px;
+    text-decoration: line-through;
+}
+
+.sk_container .sk_bd ul li .yishou .yishou87 {
+    margin-left: 14px;
+}
+
+.sk_container .sk_bd ul li .yishou .xingzhuang {
+    margin-left: 10px;
+    position: relative;
+    display: inline-block;
+    width: 132px;
+    height: 12px;
+    border: 1px solid #e12228;
+    background-color: #ed282e;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.sk_container .sk_bd ul li .yishou .xingzhuang .bai {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 10px;
+    width: 14px;
+    border-radius: 0 6px 6px 0;
+    background-color: #fff;
+}
+
+.sk_container .sk_bd ul li .yishou .shengyu {
+    margin-left: 10px;
+}
+
+.sk_container .sk_bd ul li a {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    line-height: 50px;
+    width: 288px;
+    height: 50px;
+    font-size: 20px;
+    color: #faf4f4;
+    background-color: #b1191a;
+}

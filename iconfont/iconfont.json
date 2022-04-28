@@ -1,0 +1,100 @@
+{
+  "id": "3302867",
+  "name": "文字图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5201483",
+      "name": "换一批",
+      "font_class": "huanyipi",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "145491",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "201221",
+      "name": "3.1购物车-选中",
+      "font_class": "31gouwuchexuanzhong",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "278744",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "630092",
+      "name": "向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "672036",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "28715053",
+      "name": "编辑",
+      "font_class": "a-huaban2fuben41",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "28715061",
+      "name": "删除",
+      "font_class": "a-huaban2fuben42",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "28715065",
+      "name": "主题",
+      "font_class": "a-huaban2fuben9",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "28715034",
+      "name": "角色管理",
+      "font_class": "a-huaban2fuben15",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "28715035",
+      "name": "日期",
+      "font_class": "a-huaban2fuben11",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "28715048",
+      "name": "下拉",
+      "font_class": "a-huaban2fuben10",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "28715050",
+      "name": "刷新",
+      "font_class": "a-huaban2fuben32",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
